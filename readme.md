@@ -7,7 +7,7 @@ I love github and use it often to manage projects and also explore ideas and exp
 
 But the reality is a lot of my work often exists on other platforms. And unfortunately, that means no little green squares for me (even if I am coding everyday)!
 
-I thought it would be funny and fun to try and use ![https://github.com/gelstudios/gitfiti](gitfitti's) python script to mark up the empty spaces on my github to properly represent when I am working on client projects or on other platforms.
+I thought it would be funny and fun to try and use ![gitfittie's](https://github.com/gelstudios/gitfiti) python script to mark up the empty spaces on my github to properly represent when I am working on client projects or on other platforms.
 
 
 So if you are a hiring manager or fellow engineer snooping on my green squares to see if I actually code - yes i do, just not always on github.

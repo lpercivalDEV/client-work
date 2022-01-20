@@ -13,7 +13,9 @@ So if you're a hiring manager or fellow engineer snooping on my green squares to
 
 If you'd like to see a more cohesive representation of my work - head over to my personal site www.illaisland.com where you can see the full breadth of my skills and experience. :)
 
-When you see the dollar signs in my github profile, just know somewhere else I'm goin hard! BING BONG!
+
+
+## When you see the dollar signs in my github profile, just know somewhere else I'm goin hard!
 
 <img src="https://github.com/lpercivalDEV/client-work/blob/master/bing-bong.gif" alt="BING BONG!" height="200px" width="auto">
 

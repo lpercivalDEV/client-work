@@ -19,3 +19,4 @@ If you'd like to see a more cohesive representation of my work - head over to my
 
 <img src="https://github.com/lpercivalDEV/client-work/blob/master/bing-bong.gif" alt="BING BONG!" height="200px" width="auto">
 
+
